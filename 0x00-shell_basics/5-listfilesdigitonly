@@ -1,4 +1,2 @@
 #/bin/bash
-ls -l UID GID 
-ls -a .*
-
+ls -lan UID GID  .*
