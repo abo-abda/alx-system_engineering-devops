@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -la ['p','e','r',i'','o','d']* ../.. /boot
