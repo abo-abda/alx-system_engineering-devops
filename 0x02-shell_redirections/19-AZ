@@ -1,0 +1,2 @@
+#!/bin/bash
+echo 'aaaaazzzzzxxvvnnnb,n,nmm,nmnbsvcbnbnvbvbvvccvvvvv' | tr 'ac' 'ze'
